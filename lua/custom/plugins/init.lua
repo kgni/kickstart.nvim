@@ -2,7 +2,6 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
--- ---@module "snacks"
 return {
   {
     'folke/snacks.nvim',
